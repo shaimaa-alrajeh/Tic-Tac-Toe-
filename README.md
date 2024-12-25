@@ -55,6 +55,15 @@ This is a modern, interactive Tic Tac Toe game built using React and styled with
 
 ![image](https://github.com/user-attachments/assets/775a76d9-7f31-4fe4-beed-2567ed9b411d)
 
+## License
+
+This project is licensed under the MIT License. See the `LICENSE` file for details.
+
+---
+
+### Notes
+
+For additional details or to report issues, visit the [GitHub Repository](https://github.com/shaimaa-alrajeh/Tic-Tac-Toe-).
 
 ## Future Enhancements
 
