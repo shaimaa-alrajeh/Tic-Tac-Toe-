@@ -30,6 +30,9 @@ This is a modern, interactive Tic Tac Toe game built using React and styled with
 
 2. Navigate to the project directory:
   ```bash
+      git clone https://github.com/your-username/tic-tac-toe-react.git
+   ```
+  ```bash
      cd tic-tac-toe-react
   ```
 
