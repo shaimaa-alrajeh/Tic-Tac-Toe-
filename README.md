@@ -31,7 +31,7 @@ This is a modern, interactive Tic Tac Toe game built using React and styled with
 2. Navigate to the project directory:
   ```bash
      cd tic-tac-toe-react
-```
+  ```
 
 
 3. Install dependencies:
