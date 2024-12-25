@@ -5,7 +5,6 @@ import TicTacToe from './Ticapp';
 function App() {
   
   return (
-    // <Border />
     <TicTacToe />
   )
   
