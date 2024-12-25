@@ -24,22 +24,22 @@ This is a modern, interactive Tic Tac Toe game built using React and styled with
 ## Usage
 
 1. Clone the repository:
-git clone https://github.com/your-username/tic-tac-toe-react.git
+   ```bash
+      git clone https://github.com/your-username/tic-tac-toe-react.git
 
-css
-Copy code
 2. Navigate to the project directory:
-cd tic-tac-toe-react
+  ```bash
+     cd tic-tac-toe-react
 
-markdown
-Copy code
+
 3. Install dependencies:
-npm install
+  ```bash
+     npm install
 
-markdown
-Copy code
+
 4. Start the development server:
-npm start
+  ```bash
+     npm start
 
 
 ## Technologies Used
